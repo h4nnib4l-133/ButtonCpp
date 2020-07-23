@@ -1,0 +1,13 @@
+clang++
+-std=c++14
+-stdlib=stdlibc++
+-I/usr/include
+-I/usr/include/c++/7
+-I/usr/include/c++/7.4.0
+-I/usr/include/clang/6.0.0/include
+-I/usr/local/include
+-I/usr/include/x86_64-linux-gnu 
+-I../godot-cpp/include
+-I../godot-cpp/include/core/
+-I../godot-cpp/include/gen/
+-I../godot-cpp/godot_headers/
